@@ -7,4 +7,3 @@ alert('Ok')
 
 let favouriteColour = prompt('What is your favourite colour?');
 alert('Nice')
-
